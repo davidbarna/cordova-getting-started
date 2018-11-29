@@ -44,3 +44,5 @@ var app = {
 };
 
 app.initialize();
+
+document.location.href="https://js-training-v2.now.sh"
